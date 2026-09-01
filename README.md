@@ -7,6 +7,8 @@
 - 🔗 在线试玩：https://studyguy.github.io/doom-dungeon/
 - 📁 本仓库：https://github.com/studyguy/doom-dungeon
 
+- 本项目由本人（[studyguy](https://github.com/studyguy)）通过 **Vibe Coding** 方式独立开发完成，仅供学习参考和娱乐，若和别的项目有相似之处，纯属巧合。
+
 ## ✨ 特性
 
 - **玩家**：Pointer Lock 鼠标视角、WASD 移动、空格跳跃（轻点小跳/长按高跳）、Shift 加速跑（消耗耐力）、C 蹲伏、耐力系统、重力与碰撞（防穿墙）、脱战回血、落地反馈、受击方向指示、低血量警示、死亡慢镜头
